@@ -1,0 +1,5 @@
+{
+  "name": "Investment Growth Calculator",
+  "description": "A visually appealing investment calculator that projects the growth of an initial investment with additional contributions over time, featuring a detailed summary, an interactive chart, and a year-by-year breakdown.",
+  "requestFramePermissions": []
+}
